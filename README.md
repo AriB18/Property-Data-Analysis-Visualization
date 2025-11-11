@@ -1,7 +1,7 @@
 # Property-Data-Analysis-Visualization
 Data Analysis
 
-🏠 Property Data Analysis & Visualization – Hassall Grove, NSW
+*Property Data Analysis & Visualization – Hassall Grove, NSW*
 📊 Project Overview
 
 This project presents an in-depth data visualization and analytics study of Hassall Grove (NSW) using data collected from the Australian Bureau of Statistics (ABS) and PriceFinder.
