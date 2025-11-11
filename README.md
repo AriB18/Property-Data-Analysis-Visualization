@@ -1,13 +1,13 @@
 # Property-Data-Analysis-Visualization
 Data Analysis
 
-*Property Data Analysis & Visualization – Hassall Grove, NSW*
-📊 Project Overview
+**Property Data Analysis & Visualization – Hassall Grove, NSW**
+**Project Overview**
 
 This project presents an in-depth data visualization and analytics study of Hassall Grove (NSW) using data collected from the Australian Bureau of Statistics (ABS) and PriceFinder.
 The analysis explores key demographic, financial, and housing indicators from 2011, 2016, and 2021 to identify investment trends, affordability challenges, and socio-economic changes within the suburb.
 
-🎯 Objective
+**Objective**
 
 To provide data-driven insights for potential property investors by analyzing the suburb’s:
 
@@ -23,7 +23,7 @@ Financial behavior (mortgages, rent, savings)
 
 Affordability index and market demand-supply ratio
 
-🧩 Dataset
+**Dataset**
 
 Source 1: Australian Bureau of Statistics (ABS)
 
@@ -33,7 +33,7 @@ Time Period: 2011, 2016, and 2021
 
 Region: Hassall Grove, New South Wales (Area Code: SAL11873)
 
-⚙️ Tools & Technologies
+**Tools & Technologies**
 
 Excel: Data cleaning, transformation, and visualization
 
@@ -43,7 +43,7 @@ Power BI / Tableau: Interactive dashboards and visual storytelling
 
 Data Sources: CSV, XLSM, and web-extracted datasets
 
-📈 Key Insights
+**Key Insights**
 
 Workforce: Full-time employment decreased by 13.1% (2011–2021), while part-time employment increased by 6.5%.
 
@@ -55,7 +55,7 @@ Finance: Rent-to-income ratio tripled, indicating a shift from ownership to rent
 
 Savings Trend: Median savings grew by ~40% over the decade, reflecting changing household priorities.
 
-🧠 Analytical Approach
+**Analytical Approach**
 
 Data Collection: Extracted from ABS and PriceFinder datasets.
 
@@ -67,7 +67,7 @@ Trend Analysis: Compared decade-long changes to derive investment and affordabil
 
 Reporting: Compiled key findings into a structured visual analytics report.
 
-💡 Conclusions
+**Conclusions**
 
 Property affordability in Hassall Grove has declined significantly due to housing price surges.
 
@@ -77,9 +77,9 @@ Despite steady income growth, the rising rent and mortgage burden reduce long-te
 
 Hassall Grove presents high short-term rental potential but limited affordability for new buyers.
 
-🧾 Author
+**Author**
 
 Aryan Bansal
-📧 aryan.bansal@alumni.uts.edu.au
+ aryan.bansal@alumni.uts.edu.au
 
-🎓 Master of Science in Business Analytics – University of Technology Sydney
+Master of Science in Business Analytics – University of Technology Sydney
